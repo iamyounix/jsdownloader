@@ -22,9 +22,10 @@ A simple command-line download manager built with **Node.js** that supports down
 *   Clone this repository or download the script file.
 *   Navigate to the project directory in your terminal.
 *   Install the required packages:
-	```bash
-	npm install webtorrent
-	```
+  
+    ```bash
+    npm install webtorrent
+    ```
 
 ## Usage
 
