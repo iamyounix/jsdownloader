@@ -2,6 +2,8 @@
 
 A simple command-line download manager built with **Node.js** that supports downloading files from direct URLs and torrent links. This tool provides visual feedback during downloads through a progress bar.
 
+![js downloader](https://github.com/user-attachments/assets/30b4ff09-7a9d-42ae-ba18-1f901a362c94)
+
 **Features**
 
 *   Download files from direct HTTP/HTTPS links.
